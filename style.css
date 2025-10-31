@@ -117,7 +117,7 @@ body {
 .header__right .search {
   padding: 13.5px 12px 13.5px 40px;
   border: 1px solid #E5E5E5;
-  background-image: url(/Практика/header/Images/Search.svg);
+  background-image: url(Images/Search.svg);
   background-repeat: no-repeat;
   background-position: 12px 12px;
   max-width: 320px;
@@ -307,10 +307,10 @@ body {
   display: inline-block;
   width: 24px;
   height: 24px;
-  background-image: url(/Практика/header/Images/whiteShoppingCart.svg);
+  background-image: url(Images/whiteShoppingCart.svg);
 }
 .product__buttons .button__like {
-  background: url(/Практика/header/Images/icon-like.svg) no-repeat center;
+  background: url(Images/icon-like.svg) no-repeat center;
   width: 48px;
   height: 48px;
   border: 1px solid var(--main-color);
